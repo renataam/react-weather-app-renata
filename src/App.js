@@ -1,11 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
+import Weather from './Weather';
 
 export default function App() {
   return (
     <div className="App">
-      <div className="Container">
-        <h1>Weather App</h1>
+      <div className="container">
+        <Weather />
         <footer>
           This project was code by Renata Monteiro ad is{" "}
           <a

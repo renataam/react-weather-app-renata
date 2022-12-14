@@ -8,7 +8,7 @@ export default function App() {
       <div className="container">
         <Weather defaultCity="Rio de Janeiro"/>
         <footer>
-          This project was code by Renata Monteiro ad is{" "}
+          This project was code by Renata Monteiro and is{" "}
           <a
             href="https://github.com/renataam/react-weather-app-renata"
             target="blank"

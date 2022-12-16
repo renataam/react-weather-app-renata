@@ -11,6 +11,7 @@ export default function App() {
           <a
             href="https://github.com/renataam/react-weather-app-renata"
             target="blank"
+            rel="noopener noreferrer"
           >
             open-sourced on GitHub
           </a>
